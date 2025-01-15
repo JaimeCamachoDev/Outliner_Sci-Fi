@@ -1,35 +1,15 @@
 <header>
 
-![Sin título-2](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
+![VFX_2025-01-15_014](https://github.com/user-attachments/assets/0ab13bf2-08af-4453-913d-a4753e985036)
 
-# Titulo
+# Outliner Sci-Fi
 
-_Descripción_
+VFX to outline elements in a sci-fi environment, similar to a hologram effect
 
 </header>
 
-## Subtitulo
+## Reference
 
-Descripción :tada: :keyboard: 
+https://www.youtube.com/watch?v=rqMcPZoEc3U
 
-Asi se hacen hypervinculos [repository](https://github.com/JaimeCamachoDev/Template?tab=readme-ov-file#titulo).
-
-### Encabezado
-
-1. Lista
-1. Lista
-1. Lista
-1. Lista
-1. Lista
-1. Lista
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-</footer>
+https://github.com/Unity-Technologies/SpaceshipDemo
